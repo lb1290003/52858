@@ -62,7 +62,7 @@ KAKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?ser
 金鹰纪实,http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 金鹰卡通,http://111.12.102.79:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 数字,#genre#
-邵氏电影,http://tc-tct.douyucdn2.cn/dyliveflv1/4246519roY0DNGPm.flv?wsAuth=ac1bee06e23e296d63158e74559c355e&token=cpn-androidmpro-0-4246519-126295b0785b4fb5f22a9348a82df5e47309545f2de4fd8c&logo=0&expire=0&did=a8e7bec3e726293dac4d92b185f82dfb&origin=tct&vhost=play1
+邵氏电影,http://tx2play1.douyucdn.cn/live/4246519roY0DNGPm_4000.m3u8#http://tc-tct.douyucdn2.cn/dyliveflv1/4246519roY0DNGPm.flv?wsAuth=ac1bee06e23e296d63158e74559c355e&token=cpn-androidmpro-0-4246519-126295b0785b4fb5f22a9348a82df5e47309545f2de4fd8c&logo=0&expire=0&did=a8e7bec3e726293dac4d92b185f82dfb&origin=tct&vhost=play1
 CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
