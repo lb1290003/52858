@@ -62,8 +62,6 @@ KAKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?ser
 金鹰纪实,http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 金鹰卡通,http://111.12.102.79:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 数字,#genre#
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8#http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd#http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
