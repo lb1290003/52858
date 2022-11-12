@@ -62,7 +62,7 @@ KAKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?ser
 金鹰纪实,http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 金鹰卡通,http://111.12.102.79:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 数字,#genre#
-邵氏电影,http://tx2play1.douyucdn.cn/live/4246519rQ4fIsPY9_550.flv?uuid=#http://tx2play1.douyucdn.cn/live/4246519rQ4fIsPY9_1024p.flv?uuid=#http://tx2play1.douyucdn.cn/live/4246519rQ4fIsPY9_1200.flv?uuid=#http://tx2play1.douyucdn.cn/live/4246519rQ4fIsPY9_2000.flv?uuid=#http://tx2play1.douyucdn.cn/live/4246519rQ4fIsPY9_4000.flv?uuid=
+邵氏电影,http://tx2play1.douyucdn.cn/live/4246519rQ4fIsPY9_550.m3u8?uuid=#http://tx2play1.douyucdn.cn/live/4246519rQ4fIsPY9_1024p.m3u8?uuid=#http://tx2play1.douyucdn.cn/live/4246519rQ4fIsPY9_1200.m3u8?uuid=#http://tx2play1.douyucdn.cn/live/4246519rQ4fIsPY9_2000.m3u8?uuid=#http://tx2play1.douyucdn.cn/live/4246519rQ4fIsPY9_4000.m3u8?uuid=
 CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
