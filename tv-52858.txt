@@ -73,7 +73,7 @@ CGTN纪录,http://39.135.47.101:6610/000000001000/cctv-9/1.m3u8?IASHttpSessionId
 中国教育1,http://39.135.47.101:6610/000000001000/SD-4000k-576P-jiaoyutv/1.m3u8?IASHttpSessionId=OTT
 中国教育4,http://39.135.47.101:6610/000000001000/SD-4000k-576P-jiaoyutv4/1.m3u8?IASHttpSessionId=OTT
 移动卫视易视腾,#genre#
-安徽卫视HD,http://39.135.47.101:6610/000000001000/HD-8000k-1080P-anhuistv/1.m3u8?IASHttpSessionId=OTT#http://39.135.47.101:6610/000000001000/anhuistv/1.m3u8?IASHttpSessionId=OTT
+安徽卫视,http://39.135.47.101:6610/000000001000/HD-8000k-1080P-anhuistv/1.m3u8?IASHttpSessionId=OTT#http://39.135.47.101:6610/000000001000/anhuistv/1.m3u8?IASHttpSessionId=OTT
 北京卫视,http://39.135.47.101:6610/000000001000/HD-8000k-1080P-beijingstv/1.m3u8?IASHttpSessionId=OTT#http://39.135.47.101:6610/000000001000/HD-4000k-1080P-beijingstv/1.m3u8?IASHttpSessionId=OTT
 重庆卫视,http://39.135.47.101:6610/000000001000/HD-8000k-1080P-chongqingstv/1.m3u8?IASHttpSessionId=OTT
 广东卫视,http://39.135.47.101:6610/000000001000/HD-8000k-1080P-guangdongstv/1.m3u8?IASHttpSessionId=OTT#http://39.135.47.101:6610/000000001000/HD-4000k-1080P-guangdongstv/1.m3u8?IASHttpSessionId=OTT
