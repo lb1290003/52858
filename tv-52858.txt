@@ -164,7 +164,7 @@ CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 武侠剧,http://epg.112114.xyz/douyu/7655471
 童年回忆,http://epg.112114.xyz/douyu/6712083
-欧美大片,http://epg.112114.xyz/douyu/2793084
+欧美大片,http://epg.112114.xyz/douyu/2793084#http://diyp.112114.xyz/douyu/2793084
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 上海纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 北京冬奥纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
