@@ -90,7 +90,7 @@ KAKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?ser
 纪实人文,http://111.12.102.79:6610/PLTV/77777777/224/3221225688/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 金鹰纪实,http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 数字,#genre#
-天映经典,	http://210.210.155.37/dr9445/h/h14/index.m3u8#http://tonkiang.us/?page=1&s=%E5%A4%A9%E6%98%A0#:~:text=https%3A//classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+天映经典,http://210.210.155.37/dr9445/h/h14/index.m3u8#http://tonkiang.us/?page=1&s=%E5%A4%A9%E6%98%A0#:~:text=https%3A//classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 邵氏影院,http://epg.112114.xyz/douyu/4246519#http://diyp.112114.xyz/douyu/4246519
 CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
