@@ -399,10 +399,6 @@ CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://222.134.240.136:9901/tsfile/live/1031_1.m3u8?url=tvzb.com
 陕西西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
-美亚电影台,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
-星卫电影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-龙祥电影,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
 武侠剧,http://epg.112114.xyz/douyu/7655471#http://diyp.112114.xyz/douyu/7655471
 童年回忆,http://epg.112114.xyz/douyu/6712083#http://diyp.112114.xyz/douyu/6712083
 欧美大片,http://epg.112114.xyz/douyu/2793084#http://diyp.112114.xyz/douyu/2793084
