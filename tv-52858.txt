@@ -1,11 +1,11 @@
 移动广西,#genre#
-大新,http://111.59.63.32:9901/tsfile/live/1001_1.m3u8
-崇左综合,http://111.59.63.32:9901/tsfile/live/1002_1.m3u8
 广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 广西综艺,http://111.59.63.32:9901/tsfile/live/1004_1.m3u8
 广西都市,http://111.59.63.32:9901/tsfile/live/1005_1.m3u8
 广西影视,http://111.59.63.32:9901/tsfile/live/1006_1.m3u8
 广西新闻,http://111.59.63.32:9901/tsfile/live/1007_1.m3u8
+大新,http://111.59.63.32:9901/tsfile/live/1001_1.m3u8
+崇左综合,http://111.59.63.32:9901/tsfile/live/1002_1.m3u8
 移动央视,#genre#
 CCTV-1,http://111.12.102.79:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783/index.m3u8#http://111.59.63.32:9901/tsfile/live/1008_1.m3u8
 CCTV-2,http://111.12.102.79:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225762/index.m3u8#http://111.59.63.32:9901/tsfile/live/1009_1.m3u8
@@ -422,7 +422,7 @@ SiTV欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582
 中央新影发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 中央新影老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
-电信组播源,#genre#
+酒店源,#genre#
 广西卫视,http://171.105.177.131:4022/udp/239.81.0.107:4056#http://171.105.177.131:4022/udp/239.81.0.2:4056
 广西综艺,http://171.105.177.131:4022/udp/239.81.0.214:4056#http://171.105.177.131:4022/udp/239.81.0.3:4056
 广西都市,http://171.105.177.131:4022/udp/239.81.0.247:4056#http://171.105.177.131:4022/udp/239.81.0.4:4056
@@ -434,5 +434,5 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 广西科教,http://171.105.177.131:4022/udp/239.81.0.11:4056
 CCTV1,http://171.105.177.131:4022/udp/239.81.0.13:4056#http://171.105.177.131:4022/udp/239.81.0.102:4056
 CCTV2,http://171.105.177.131:4022/udp/239.81.0.14:4056#http://171.105.177.131:4022/udp/239.81.0.115:4056
-
+cctv3,http://171.105.177.131:4022/udp/239.81.0.231:4056
 
