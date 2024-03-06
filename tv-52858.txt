@@ -445,7 +445,6 @@ KAKU少儿-AAC[1047*576],rtp://239.81.1.64:4056
 青海卫视[785*576],rtp://239.81.0.53:4056
 黑龙江卫视[785*576],rtp://239.81.0.33:4056
 钦州综合[768*576],rtp://239.81.0.165:4056
-
 央视,#genre#
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
