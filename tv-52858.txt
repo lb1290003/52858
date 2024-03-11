@@ -441,7 +441,6 @@ KAKU少儿-AAC[1047*576],rtp://239.81.1.64:4056
 黑龙江卫视[785*576],rtp://239.81.0.33:4056
 钦州综合[768*576],rtp://239.81.0.165:4056
 陕西电信组播,#genre#
-央视,#genre#
 CCTV1-综合,http://summer-xa.icopylock.com:8888/udp/239.112.205.59:5140
 CCTV2-财经,http://summer-xa.icopylock.com:8888/udp/239.112.205.78:5140
 CCTV3-综艺,http://summer-xa.icopylock.com:8888/udp/239.112.205.221:5140
@@ -475,7 +474,6 @@ CCTV-电视指南,http://summer-xa.icopylock.com:8888/udp/239.111.205.76:5140
 CGTN,http://summer-xa.icopylock.com:8888/udp/239.111.205.32:5140
 CGTN西班牙语,http://summer-xa.icopylock.com:8888/udp/239.111.205.33:5140
 CGTN法语,http://summer-xa.icopylock.com:8888/udp/239.111.205.34:5140
-卫视,#genre#
 湖南卫视,http://summer-xa.icopylock.com:8888/udp/239.109.205.163:9002
 浙江卫视,http://summer-xa.icopylock.com:8888/udp/239.109.205.120:8896
 江苏卫视,http://summer-xa.icopylock.com:8888/udp/239.109.205.119:8368
@@ -510,7 +508,6 @@ CGTN法语,http://summer-xa.icopylock.com:8888/udp/239.111.205.34:5140
 厦门卫视-标清,http://summer-xa.icopylock.com:8888/udp/239.110.205.21:9830
 金鹰卡通-标清,http://summer-xa.icopylock.com:8888/udp/239.109.205.42:8272
 西藏卫视-标清,http://summer-xa.icopylock.com:8888/udp/239.109.205.45:8296
-地方,#genre#
 教育1台,http://summer-xa.icopylock.com:8888/udp/239.109.205.78:8560
 教育2台-标清,http://summer-xa.icopylock.com:8888/udp/239.109.205.48:8320
 教育4台-标清,http://summer-xa.icopylock.com:8888/udp/239.111.205.169:5140
@@ -530,7 +527,6 @@ MAX极速汽车,http://summer-xa.icopylock.com:8888/udp/239.111.205.185:5140
 圆点导视,http://summer-xa.icopylock.com:8888/udp/239.110.205.51:9930
 都市剧场,http://summer-xa.icopylock.com:8888/udp/239.110.205.51:9930
 体育竞技,http://summer-xa.icopylock.com:8888/udp/239.111.205.54:5140
-陕西,#genre#
 陕西1套-新闻资讯,http://summer-xa.icopylock.com:8888/udp/239.111.205.28:5140
 陕西2套-体育休闲,http://summer-xa.icopylock.com:8888/udp/239.111.205.36:5140
 陕西3套-生活,http://summer-xa.icopylock.com:8888/udp/239.111.205.98:5140
@@ -551,7 +547,6 @@ MAX极速汽车,http://summer-xa.icopylock.com:8888/udp/239.111.205.185:5140
 西教一台,http://summer-xa.icopylock.com:8888/udp/239.112.205.243:5140
 西教二台,http://summer-xa.icopylock.com:8888/udp/239.112.205.242:5140
 西教三台,http://summer-xa.icopylock.com:8888/udp/239.112.205.241:5140
-陕西地市,#genre#
 咸阳综合,http://summer-xa.icopylock.com:8888/udp/239.112.205.141:5140
 渭南新闻,http://summer-xa.icopylock.com:8888/udp/239.111.205.19:5140
 延安一套,http://summer-xa.icopylock.com:8888/udp/239.112.205.169:5140
