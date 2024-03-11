@@ -777,4 +777,4 @@ SiTV欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582
 中央新影老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
 广西卫视,http://summer-xa.icopylock.com:8888/udp/239.81.0.107:4056#http://opdf.top:8088/udp/239.81.0.239:4056
-dtrw12,http://opdf.top:8088/udp/239.81.0.177:4056#http://180.136.236.127:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+dtrw12,http://opdf.top:8088/udp/239.81.0.177:4056#http://summer-xa.icopylock.com:8888/udp/239.112.205.223:5140
