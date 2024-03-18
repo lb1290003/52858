@@ -530,7 +530,6 @@ MAX极速汽车,http://summer-xa.icopylock.com:8888/udp/239.111.205.185:5140
 陕西5套-公共,http://summer-xa.icopylock.com:8888/udp/239.111.205.100:5140
 陕西6套-乐家购物,http://summer-xa.icopylock.com:8888/udp/239.111.205.101:5140
 陕西7套-都市青春,http://summer-xa.icopylock.com:8888/udp/239.111.205.42:5140
-陕西8套-西部电影,http://summer-xa.icopylock.com:8888/udp/239.111.205.102:5140
 西安1套,http://summer-xa.icopylock.com:8888/udp/239.109.205.130:8976
 西安2套,http://summer-xa.icopylock.com:8888/udp/239.109.205.131:8984
 西安3套,http://summer-xa.icopylock.com:8888/udp/239.110.205.38:9858
@@ -871,14 +870,13 @@ KAKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?ser
 纪实人文,http://111.12.102.79:6610/PLTV/77777777/224/3221225688/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 金鹰纪实,http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 数字,#genre#
-天映经典,hhttp://67.211.73.118:9901http://iptv.tvfix.org/hls/tyjd.m3u8#ttp://67.211.73.118:9901http://iptv.tvfix.org/hls/tyjd.m3u8#http://jyjxy.7766.org:8811/hls/62/index.m3u8
+天映经典,http://jyjxy.7766.org:8811/hls/62/index.m3u8
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519#http://epg.112114.xyz/douyu/4246519#http://diyp.112114.xyz/douyu/4246519
 CHC动作电影,http://opdf.top:8088/udp/239.81.0.239:4056#http://summer-xa.icopylock.com:8888/udp/239.110.205.6:9770#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC高清电影,http://opdf.top:8088/udp/239.81.0.240:4056#http://summer-xa.icopylock.com:8888/udp/239.109.205.97:8712#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC家庭影院,http://opdf.top:8088/udp/239.81.0.238:4056#http://summer-xa.icopylock.com:8888/udp/239.109.205.104:8768#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-陕西西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
+陕西西部电影,http://summer-xa.icopylock.com:8888/udp/239.111.205.102:5140#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
 武侠剧,http://epg.112114.xyz/douyu/7655471#http://diyp.112114.xyz/douyu/7655471
-童年回忆,http://epg.112114.xyz/douyu/6712083#http://diyp.112114.xyz/douyu/6712083
 欧美大片,http://epg.112114.xyz/douyu/2793084#http://diyp.112114.xyz/douyu/2793084
 上海纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 北京冬奥纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
