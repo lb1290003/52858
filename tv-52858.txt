@@ -239,9 +239,6 @@ CCTV4K-HEVC-AAC-50帧[3840*2160],http://opdf.top:8088/udp/239.81.1.78:4056
 BRTV|纪实科教-DD5.1[1920*1080],http://opdf.top:8088/udp/239.81.0.195:4056
 BesTV-4K标[1920*1080],http://opdf.top:8088/udp/239.81.0.166:4056
 BesTV4K标[1920*1080],http://opdf.top:8088/udp/239.81.0.1:4056
-CHC动作电影[1920*1080],http://opdf.top:8088/udp/239.81.0.239:4056
-CHC家庭影院[1920*1080],http://opdf.top:8088/udp/239.81.0.238:4056
-CHC高清电影[1920*1080],http://opdf.top:8088/udp/239.81.0.240:4056
 东南卫视-HEVC-AAC[1920*1080],http://opdf.top:8088/udp/239.81.1.34:4056
 东南卫视[1920*1080],http://opdf.top:8088/udp/239.81.0.215:4056
 东方卫视-HEVC-AAC[1920*1080],http://opdf.top:8088/udp/239.81.1.23:4056
@@ -513,9 +510,6 @@ CGTN法语,http://summer-xa.icopylock.com:8888/udp/239.111.205.34:5140
 教育1台,http://summer-xa.icopylock.com:8888/udp/239.109.205.78:8560
 教育2台-标清,http://summer-xa.icopylock.com:8888/udp/239.109.205.48:8320
 教育4台-标清,http://summer-xa.icopylock.com:8888/udp/239.111.205.169:5140
-CHC动作电影,http://summer-xa.icopylock.com:8888/udp/239.110.205.6:9770
-CHC家庭影院,http://summer-xa.icopylock.com:8888/udp/239.109.205.104:8768
-CHC高清电影,http://summer-xa.icopylock.com:8888/udp/239.109.205.97:8712
 爱上4K,http://summer-xa.icopylock.com:8888/udp/239.109.205.53:8360
 金鹰纪实,http://summer-xa.icopylock.com:8888/udp/239.109.205.59:8408
 游戏风云,http://summer-xa.icopylock.com:8888/udp/239.109.205.195:9642
@@ -879,9 +873,9 @@ KAKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?ser
 数字,#genre#
 天映经典,hhttp://67.211.73.118:9901http://iptv.tvfix.org/hls/tyjd.m3u8#ttp://67.211.73.118:9901http://iptv.tvfix.org/hls/tyjd.m3u8#http://jyjxy.7766.org:8811/hls/62/index.m3u8
 邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519#http://epg.112114.xyz/douyu/4246519#http://diyp.112114.xyz/douyu/4246519
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC动作电影,http://opdf.top:8088/udp/239.81.0.239:4056#http://summer-xa.icopylock.com:8888/udp/239.110.205.6:9770#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC高清电影,http://opdf.top:8088/udp/239.81.0.240:4056#http://summer-xa.icopylock.com:8888/udp/239.109.205.97:8712#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC家庭影院,http://opdf.top:8088/udp/239.81.0.238:4056#http://summer-xa.icopylock.com:8888/udp/239.109.205.104:8768#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 陕西西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
 武侠剧,http://epg.112114.xyz/douyu/7655471#http://diyp.112114.xyz/douyu/7655471
 童年回忆,http://epg.112114.xyz/douyu/6712083#http://diyp.112114.xyz/douyu/6712083
