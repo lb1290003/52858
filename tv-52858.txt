@@ -7,7 +7,7 @@ CHC家庭影院,http://summer-xa.icopylock.com:8888/udp/239.109.205.104:8768#htt
 陕西西部电影,http://summer-xa.icopylock.com:8888/udp/239.111.205.102:5140
 武侠剧,http://epg.112114.xyz/douyu/7655471#http://diyp.112114.xyz/douyu/7655471
 欧美大片,http://epg.112114.xyz/douyu/2793084#http://diyp.112114.xyz/douyu/2793084
-南宁移动央视,#genre#
+移动央视1,#genre#
 CCTV1,http://39.135.32.28:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV2,http://39.135.32.28:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV3,http://39.135.32.28:6610/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -26,7 +26,7 @@ CCTV15,http://39.135.32.28:6610/PLTV/77777777/224/3221225693/index.m3u8?servicet
 CCTV16,http://39.135.32.28:6610/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV17,http://39.135.32.28:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV5+,http://39.135.32.28:6610/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-南宁移动卫视,#genre#
+移动卫视1,#genre#
 安徽卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 北京卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 东方卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -49,7 +49,7 @@ CCTV5+,http://39.135.32.28:6610/PLTV/77777777/224/3221225712/index.m3u8?servicet
 天津卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 浙江卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225731/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 重庆卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-移动央视,#genre#
+移动央视2,#genre#
 CCTV-1,http://111.12.102.79:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-2,http://111.12.102.79:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-3,http://111.12.102.79:6610/PLTV/77777777/224/3221225677/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -68,7 +68,7 @@ CCTV-14,http://111.12.102.79:6610/PLTV/77777777/224/3221225648/index.m3u8?servic
 CCTV-15,http://111.12.102.79:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-17,http://111.12.102.79:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-移动卫视,#genre#
+移动卫视2,#genre#
 江苏卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225636/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 辽宁卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225639/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 山东卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225642/index.m3u8?servicetype=1&IASHttpSessionId=OTT
