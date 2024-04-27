@@ -1,8 +1,8 @@
 数字,#genre#
 天映经典,http://jyjxy.7766.org:8811/hls/62/index.m3u8#http://210.210.155.37/dr9445/h/h14/index.m3u8?$480x360#http://210.210.155.37/dr9445/h/h14/index.m3u8#http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 邵氏影院,http://epg.112114.xyz/douyu/4246519#http://diyp.112114.xyz/douyu/4246519
-CHC动作电影,http://summer-xa.icopylock.com:8888/udp/239.110.205.6:9770#http://27.217.213.217:18888/rtp/239.253.248.153:8000#http://opdf.top:8088/udp/239.81.0.239:4056
-CHC高清电影,http://summer-xa.icopylock.com:8888/udp/239.109.205.97:8712#http://27.217.213.217:18888/rtp/239.253.248.154:8000#http://opdf.top:8088/udp/239.81.0.240:4056
+CHC动作电影,http://summer-xa.icopylock.com:8888/udp/239.110.205.6:9770#http://27.217.213.217:18888/rtp/239.253.248.153:8000#www.guniang18.cn:4022/udp/239.81.0.239:4056
+CHC高清电影,http://summer-xa.icopylock.com:8888/udp/239.109.205.97:8712#http://27.217.213.217:18888/rtp/239.253.248.154:8000#www.guniang18.cn:4022/udp/239.81.0.240:4056
 CHC家庭影院,http://summer-xa.icopylock.com:8888/udp/239.109.205.104:8768#http://27.217.213.217:18888/rtp/239.253.248.152:8000#http://opdf.top:8088/udp/239.81.0.238:4056
 陕西西部电影,http://summer-xa.icopylock.com:8888/udp/239.111.205.102:5140
 武侠剧,http://epg.112114.xyz/douyu/7655471#http://diyp.112114.xyz/douyu/7655471
