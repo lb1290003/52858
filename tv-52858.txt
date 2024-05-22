@@ -7,7 +7,7 @@ CHC家庭影院,http://rodck.3322.org:18888/rtp/239.81.0.238:4056#http://summer-
 陕西西部电影,http://summer-xa.icopylock.com:8888/udp/239.111.205.102:5140
 武侠剧,http://diyp.112114.xyz/douyu/7655471
 欧美大片,http://diyp.112114.xyz/douyu/2793084
-移动央视,#genre#
+移动源,#genre#
 CCTV1,http://39.135.32.28:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV1,http://111.12.102.79:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV2,http://39.135.32.28:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -33,7 +33,6 @@ CCTV14,http://111.12.102.79:6610/PLTV/77777777/224/3221225648/index.m3u8?service
 CCTV15,http://39.135.32.28:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV15,http://111.12.102.79:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV16,http://39.135.32.28:6610/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-移动卫视,#genre#
 安徽卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 北京卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 北京卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -84,7 +83,7 @@ CCTV16,http://39.135.32.28:6610/PLTV/77777777/224/3221225937/index.m3u8?servicet
 AKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
 金鹰纪实,http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
 金鹰卡通,http://111.12.102.79:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-广西移动源2,#genre#
+移动源2,#genre#
 NewTV军旅剧场 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
 NewTV农业致富 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225687/index.m3u8
 NewTV动作电影 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225703/index.m3u8
@@ -437,7 +436,7 @@ BRIV北京卫视[785*576],http://rodck.3322.org:18888/rtp/239.81.0.30:4056
 动漫秀场[1047*576],http://rodck.3322.org:18888/rtp/239.81.0.68:4056
 BRTV KAKU少儿[785*576],http://rodck.3322.org:18888/rtp/239.81.0.62:4056
 KAKU少儿-AAC[1047*576],http://rodck.3322.org:18888/rtp/9.81.1.64:4056
-陕西电信组播,#genre#
+电信组播2,#genre#
 CCTV1-综合,http://summer-xa.icopylock.com:8888/udp/239.112.205.59:5140
 CCTV2-财经,http://summer-xa.icopylock.com:8888/udp/239.112.205.78:5140
 CCTV3-综艺,http://summer-xa.icopylock.com:8888/udp/239.112.205.221:5140
