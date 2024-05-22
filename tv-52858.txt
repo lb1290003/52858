@@ -167,13 +167,13 @@ CGTN纪录 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225707/i
 河池教育 576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225836/index.m3u8
 河池新闻综合 576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225756/index.m3u8
 电信组播,#genre#
-广西IPTV[1920*1080],http://www.guniang18.cn:4022/udp/239.81.0.203:4056
-广西IPTV[1920*1080],http://www.guniang18.cn:4022/udp/239.81.0.208:4056
-广西卫视AC3-512[1920*1080],http://www.guniang18.cn:4022/udp/239.81.0.107:4056
-广西影视[1920*1080],http://www.guniang18.cn:4022/udp/239.81.0.250:4056
-广西新闻[1920*1080],http://www.guniang18.cn:4022/udp/239.81.0.248:4056
-广西综艺旅游[1920*1080],http://www.guniang18.cn:4022/udp/239.81.0.214:4056
-广西都市[1920*1080],http://www.guniang18.cn:4022/udp/239.81.0.247:4056
+广西IPTV[1920*1080],http://rodck.3322.org:18888/rtp/239.81.0.203:4056
+广西IPTV[1920*1080],http://rodck.3322.org:18888/rtp/239.81.0.208:4056
+广西卫视AC3-512[1920*1080],http://rodck.3322.org:18888/rtp/239.81.0.107:4056
+广西影视[1920*1080],http://rodck.3322.org:18888/rtp/239.81.0.250:4056
+广西新闻[1920*1080],http://rodck.3322.org:18888/rtp/239.81.0.248:4056
+广西综艺旅游[1920*1080],http://rodck.3322.org:18888/rtp/239.81.0.214:4056
+广西都市[1920*1080],http://rodck.3322.org:18888/rtp/239.81.0.247:4056
 南宁公共[1920*1080],http://www.guniang18.cn:4022/udp/239.81.0.141:4056
 南宁影视娱乐[1920*1080],http://www.guniang18.cn:4022/udp/239.81.0.140:4056
 南宁文旅生活[1920*1080],http://www.guniang18.cn:4022/udp/239.81.0.139:4056
