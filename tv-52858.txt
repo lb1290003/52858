@@ -5,6 +5,7 @@ CHC动作电影,http://rodck.3322.org:18888/rtp/239.81.0.239:4056#http://summer-
 CHC高清电影,http://rodck.3322.org:18888/rtp/239.81.0.240:4056#http://summer-xa.icopylock.com:8888/udp/239.109.205.97:8712#http://opdf.top:8088/udp/239.81.0.240:4056
 CHC家庭影院,http://rodck.3322.org:18888/rtp/239.81.0.238:4056#http://summer-xa.icopylock.com:8888/udp/239.109.205.104:8768#http://opdf.top:8088/udp/239.81.0.238:4056
 陕西西部电影,http://summer-xa.icopylock.com:8888/udp/239.111.205.102:5140
+凤凰电影，http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 武侠剧,http://diyp.112114.xyz/douyu/7655471
 欧美大片,http://diyp.112114.xyz/douyu/2793084
 移动源,#genre#
