@@ -5,6 +5,7 @@ CHC影迷电影,http://summer-xa.icopylock.com:8888/udp/239.109.205.97:8712#http
 CHC家庭影院,http://summer-xa.icopylock.com:8888/udp/239.109.205.104:8768#http://opdf.top:8088/udp/239.81.0.238:4056
 陕西西部电影,http://summer-xa.icopylock.com:8888/udp/239.111.205.102:5140
 亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 武侠剧,http://diyp.112114.xyz/douyu/7655471
 欧美大片,http://diyp.112114.xyz/douyu/2793084
 移动源,#genre#
