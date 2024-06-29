@@ -4,7 +4,7 @@ CHC动作电影,http://summer-xa.icopylock.com:8888/udp/239.110.205.6:9770#http:
 CHC影迷电影,http://summer-xa.icopylock.com:8888/udp/239.109.205.97:8712#http://opdf.top:8088/udp/239.81.0.240:4056
 CHC家庭影院,http://summer-xa.icopylock.com:8888/udp/239.109.205.104:8768#http://opdf.top:8088/udp/239.81.0.238:4056
 陕西西部电影,http://summer-xa.icopylock.com:8888/udp/239.111.205.102:5140
-电影轮播：https://pull.kktv8.com/livekktv/128600025.flv
+电影轮播,https://pull.kktv8.com/livekktv/128600025.flv
 亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB翡翠,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
