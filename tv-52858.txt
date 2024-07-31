@@ -243,6 +243,7 @@ BesTV4K标,http://192.168.50.1:3225/udp/39.81.0.1:4056
 东南卫视,http://192.168.50.1:3225/udp/239.81.0.215:4056
 东方卫视,http://192.168.50.1:3225/udp/239.81.1.23:4056
 东方卫视,http://192.168.50.1:3225/udp/239.81.0.111:4056
+东方财经,http://192.168.50.1:3225/udp/239.81.0.76:4056
 云南卫视,http://192.168.50.1:3225/udp/239.81.1.42:4056
 五星体育,http://192.168.50.1:3225/udp/239.81.0.184:4056
 北京卫视,http://192.168.50.1:3225/udp/239.81.1.24:4056
@@ -332,6 +333,7 @@ BesTV游戏,http://192.168.50.1:3225/udp/239.81.0.181:4056
 梧州新闻综合,http://www.dsmcloud.top:8888/udp/239.81.0.244:4056
 贵港新闻综合,http://www.dsmcloud.top:8888/udp/239.81.0.169:4056
 CCTV1综合,http://www.dsmcloud.top:8888/udp/239.81.0.13:4056
+CCTV1综合,http://www.dsmcloud.top:8888/udp/239.81.1.55:4056
 CCTV2财经,http://www.dsmcloud.top:8888/udp/239.81.0.14:4056
 CCTV3综艺,http://www.dsmcloud.top:8888/udp/239.81.0.66:4056
 CCTV3综艺,http://www.dsmcloud.top:8888/udp/239.81.0.86:4056
@@ -382,6 +384,7 @@ CNTV,http://www.dsmcloud.top:8888/udp/239.81.0.84:4056
 置业频道-AAC[1047*576],rtp://239.81.1.77:4056
 BRIV北京卫视,http://www.dsmcloud.top:8888/udp/239.81.0.30:4056
 江苏卫视,http://www.dsmcloud.top:8888/udp/239.81.0.34:4056
+东方卫视,http://www.dsmcloud.top:8888/udp/239.81.0.29:4056
 江西卫视,http://www.dsmcloud.top:8888/udp/239.81.0.38:4056
 河北卫视,http://www.dsmcloud.top:8888/udp/239.81.0.51:4056
 河南卫视,http://www.dsmcloud.top:8888/udp/239.81.0.44:4056
@@ -402,8 +405,6 @@ BRIV北京卫视,http://www.dsmcloud.top:8888/udp/239.81.0.30:4056
 吉林卫视,http://www.dsmcloud.top:8888udp/239.81.0.58:4056
 四川卫视,http://www.dsmcloud.top:8888/udp/239.81.0.43:4056
 夏门卫视,http://www.dsmcloud.top:8888/udp/239.81.0.212:4056
-大湾区卫视,http://www.dsmcloud.top:8888/udp/239.81.1.55:4056
-大湾区卫视,http://www.dsmcloud.top:8888/udp/239.81.0.29:4056
 大湾区卫视,http://www.dsmcloud.top:8888/udp/239.81.0.32:4056
 天津卫视,http://www.dsmcloud.top:8888/udp/239.81.0.50:4056
 宁夏卫视,http://www.dsmcloud.top:8888/udp/239.81.1.51:4056
