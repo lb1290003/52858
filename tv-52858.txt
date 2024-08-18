@@ -670,6 +670,7 @@ CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
