@@ -166,7 +166,7 @@ CGTN纪录 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225707/i
 湖南金鹰纪实 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225699/index.m3u8
 河池教育 576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225836/index.m3u8
 河池新闻综合 576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225756/index.m3u8
-电信组播,#genre
+电信组播,#genre#
 广西IPTV,http://192.168.50.1:4022/udp/239.81.0.203:4056
 广西IPTV,http://192.168.50.1:4022/udp/239.81.0.208:4056
 广西卫视,http://192.168.50.1:4022/udp/239.81.0.107:4056
