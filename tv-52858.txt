@@ -95,8 +95,8 @@ AKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?serv
 柳州公共 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225841/index.m3u8
 柳州新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225831/index.m3u8
 柳州科教 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225887/index.m3u8
-河池教育 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225890/index.m3u8
-河池新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225844/index.m3u8
+河池教育 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226305/index.m3u8
+河池新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226302/index.m3u8
 北海新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
 北海经济科教 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8
 来宾综合 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225903/index.m3u8
