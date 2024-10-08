@@ -83,8 +83,15 @@ AKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?serv
 金鹰纪实,http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
 金鹰卡通,http://111.12.102.79:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 移动源2,#genre#
-
+广西卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225767/index.m3u8
+广西新闻 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226285/index.m3u8
+广西综艺旅游 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226292/index.m3u8
+广西都市 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226295/index.m3u8
+广西影视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+南宁新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226281/index.m3u8
 南宁公共 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225870/index.m3u8
+南宁影视娱乐 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226291/index.m3u8
+南宁文旅生活 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226288/index.m3u8
 柳州公共 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225841/index.m3u8
 柳州新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225831/index.m3u8
 柳州科教 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225887/index.m3u8
@@ -93,12 +100,27 @@ AKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?serv
 北海新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
 北海经济科教 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8
 来宾综合 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225903/index.m3u8
+来宾综合 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226290/index.m3u8
 玉林新闻综合 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 玉林公共 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225838/index.m3u8
 百色公共 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225835/index.m3u8
 百色综合 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225877/index.m3u8
 贺州综合 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8
 贺州综合 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
+贺州综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226296/index.m3u8
+梧州新闻综合http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+梧州公共频道http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226297/index.m3u8
+梧州教育生活http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226316/index.m3u8
+防城港新闻综合http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226312/index.m3u8
+防城港公共http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226328/index.m3u8
+崇左综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226314/index.m3u8
+桂林新闻综合http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226294/index.m3u8
+桂林科教旅游http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226293/index.m3u8
+桂林公共频道http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+贵港新闻综合http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226300/index.m3u8
+贵港科教生活http://cdnrrs.gx.chinamobile.com/PLTV/88888888224/3221226303/index.m3u8
+钦州新闻综合http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
+钦州公共影视http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8
 NewTV中国功夫 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225690/index.m3u8
 NewTV军事评论 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225749/index.m3u8
 NewTV军旅剧场 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
