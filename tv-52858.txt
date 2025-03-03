@@ -279,18 +279,18 @@ CGTN纪录 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225707/i
 湖南金鹰卡通 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225702/index.m3u8
 湖南金鹰纪实 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225699/index.m3u8
 电信组播,#genre#
-广西IPTV,http://192.168.2.1:4022/udp/239.81.0.203:4056
-广西IPTV,http://192.168.2.1:4022/udp/239.81.0.208:4056
-广西卫视,http://192.168.2.1:4022/udp/239.81.0.107:4056
-广西影视,http://192.168.2.1:4022/udp/239.81.0.250:4056
-广西新闻,http://192.168.2.1:4022/udp/239.81.0.248:4056
-广西综艺旅游,http://192.168.2.1:4022/udp/239.81.0.214:4056
-广西都市,http://192.168.2.1:4022/udp/239.81.0.247:4056
-广西科教,http://192.168.2.1:4022/udp/239.81.0.11:4056
+广西IPTV,http://192.168.2.1:4022/rtp/239.81.0.203:4056
+广西IPTV,http://192.168.2.1:4022/rtp/239.81.0.208:4056
+广西卫视,http://192.168.2.1:4022/rtp/239.81.0.107:4056
+广西影视,http://192.168.2.1:4022/rtp/239.81.0.250:4056
+广西新闻,http://192.168.2.1:4022/rtp/239.81.0.248:4056
+广西综艺旅游,http://192.168.2.1:4022/rtp/239.81.0.214:4056
+广西都市,http://192.168.2.1:4022/rtp/239.81.0.247:4056
+广西科教,http://192.168.2.1:4022/rtp/239.81.0.11:4056
 南宁公共,http://www.8700956.top:18888/rtp/239.81.0.141:4056
-南宁影视娱乐,http://www.8700956.top:18888/udp/239.81.0.140:4056
-南宁文旅生活,http://www.8700956.top:18888/udp/239.81.0.139:4056
-南宁新闻综合,http://www.8700956.top:18888/udp/239.81.0.241:4056
+南宁影视娱乐,http://www.8700956.top:18888/rtp/239.81.0.140:4056
+南宁文旅生活,http://www.8700956.top:18888/rtp/239.81.0.139:4056
+南宁新闻综合,http://www.8700956.top:18888/rtp/239.81.0.241:4056
 防城港新闻综合,http://www.8700956.top:18888/rtp/239.81.0.151:4056
 贵港新闻综合,http://www.8700956.top:18888/rtp/239.81.0.172:4056
 来宾综合,http://www.8700956.top:18888/rtp/239.81.0.173:4056
@@ -569,16 +569,15 @@ CNTV,http://www.dsmcloud.top:8888/udp/239.81.0.84:4056
 优漫卡通,http://www.dsmcloud.top:8888/udp/239.81.1.67:4056
 动漫秀场,http://www.dsmcloud.top:8888/udp/239.81.0.68:4056
 BRTV KAKU少儿,http://www.dsmcloud.top:8888/udp/239.81.0.62:4056
-KAKU少儿,http://www.dsmcloud.top:8888/udp/9.81.1.64:4056
+KAKU少儿,http://www.dsmcloud.top:8888/udp/239.81.1.64:4056
 其它,#genre#
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+青海经视,http://stream.qhbtv.com/qhjs/sd/live.m3u8
+青海都视,http://stream.qhbtv.com/qhds/sd/live.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
