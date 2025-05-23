@@ -1,7 +1,5 @@
+
 测试,#genre#
-天映经典,http://108.181.20.197/livehttpplay?channel_id=20063
-过度,http://108.181.20.197/livehttpplay?channel_id=20063
-测试1,#genre#
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 过度,http://php.jdshipin.com/smt.php?id=Celestial2
 数字,#genre#
@@ -87,203 +85,202 @@ AKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?serv
 金鹰卡通,http://111.12.102.79:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 金鹰卡通,http://39.135.32.28:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 移动源2,#genre#
-广西卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225767/index.m3u8
-广西卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
-广西新闻 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226285/index.m3u8
-广西综艺旅游 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226292/index.m3u8
-广西都市 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226295/index.m3u8
-广西影视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-南宁新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226281/index.m3u8
-南宁公共 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8
-南宁影视娱乐 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226291/index.m3u8
-南宁文旅生活 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226288/index.m3u8
-柳州公共 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226307/index.m3u8
-柳州新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226304/index.m3u8
-柳州科教 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226287/index.m3u8
-河池教育 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226305/index.m3u8
-河池新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226302/index.m3u8
-北海新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226309/index.m3u8
-北海经济科教 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226308/index.m3u8
-来宾综合  4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226290/index.m3u8
-玉林新闻综合  4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226299/index.m3u8
-玉林公共 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226319/index.m3u8
-百色综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226322/index.m3u8
-贺州综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226296/index.m3u8
-梧州新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-梧州公共频道 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226297/index.m3u8
-梧州教育生活 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226316/index.m3u8
-防城港新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226312/index.m3u8
-防城港公共 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226328/index.m3u8
-崇左综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226314/index.m3u8
-桂林新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226294/index.m3u8
-桂林科教旅游 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226293/index.m3u8
-桂林公共频道 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-贵港新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226300/index.m3u8
-贵港科教生活 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226303/index.m3u8
-钦州新闻综合 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
-钦州公共影视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8
-NewTV中国功夫 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225690/index.m3u8
-NewTV军事评论 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225749/index.m3u8
-NewTV军旅剧场 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
-NewTV农业致富 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225687/index.m3u8
-NewTV动作电影 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225703/index.m3u8
-NewTV古装剧场 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225706/index.m3u8
-NewTV家庭剧场 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-NewTV怡伴健康 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225684/index.m3u8
-NewTV惊悚悬疑 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225746/index.m3u8
-NewTV明星大片 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-NewTV武搏世界 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225758/index.m3u8
-NewTV海外剧场 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225763/index.m3u8
-NewTV潮妈辣婆 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225709/index.m3u8
-NewTV炫舞未来 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-NewTV爱情喜剧 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225698/index.m3u8
-NewTV精品体育 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225724/index.m3u8
-NewTV精品大剧 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225737/index.m3u8
-NewTV精品纪录 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-NewTV金牌综艺 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225755/index.m3u8
-黑莓动画 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
-黑莓电影 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-黑莓电竞 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225771/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225774/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225777/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225780/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225808/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225811/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225834/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225837/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225839/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225848/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225850/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225851/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225853/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225854/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225857/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225860/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8
-咪咕视频 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225896/index.m3u8
-CCTV1 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8
-CCTV1 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-CCTV2 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8
-CCTV2 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-CCTV3 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8
-CCTV3 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
-CCTV4 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8
-CCTV4 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
-CCTV5 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8
-CCTV5 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8
-CCTV5 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
-CCTV5 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-CCTV5+ 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225998/index.m3u8
-CCTV5+ 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225712/index.m3u8
-CCTV6 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8
-CCTV6 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-CCTV7 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8
-CCTV7 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225700/index.m3u8
-CCTV8 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8
-CCTV8 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-CCTV9 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225939/index.m3u8
-CCTV9 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-CCTV10 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8
-CCTV10 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225704/index.m3u8
-CCTV11 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8
-CCTV11 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-CCTV12 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8
-CCTV12 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225645/index.m3u8
-CCTV13 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8
-CCTV13 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-CCTV13 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
-CCTV14 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225901/index.m3u8
-CCTV14 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225648/index.m3u8
-CCTV15 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225945/index.m3u8
-CCTV15 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225693/index.m3u8
-CCTV16 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8
-CCTV16 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225956/index.m3u8
-CCTV17 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8
-CCTV17 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225766/index.m3u8
-纯享4K 4M2160,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8
-CCTV13 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
-CCTV高尔夫网球 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
-CGTN 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
-CGTN俄语 4MM576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225825/index.m3u8
-CGTN法语 4MM576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
-CGTN西语 4MM576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225875/index.m3u8
-CGTN阿语 4MM576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
-CGTN纪录 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225707/index.m3u8
-中国教育1 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225776/index.m3u8
-中国教育4 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225723/index.m3u8
-东南卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225696/index.m3u8
-东方卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225718/index.m3u8
-东方卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8
-北京卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225651/index.m3u8
-北京卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-天津卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-天津卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
-安徽卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225701/index.m3u8
-安徽卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-山东卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-山东卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225642/index.m3u8
-广东卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-广东卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-广西卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225986/index.m3u8
-江苏卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225722/index.m3u8
-江苏卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225636/index.m3u8
-江西卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-浙江卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-浙江卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225695/index.m3u8
-深圳卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225725/index.m3u8
-深圳卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225691/index.m3u8
-湖北卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225721/index.m3u8
-湖北卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-湖南卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-湖南卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225692/index.m3u8
-辽宁卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225779/index.m3u8
-辽宁卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-重庆卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
-重庆卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
-黑龙江卫视 4M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-黑龙江卫视 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225686/index.m3u8
-上海纪实人文 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225688/index.m3u8
-北京冬奥纪实 8M1080,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
-云南卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
-内蒙古卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225751/index.m3u8
-吉林卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
-四川卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225757/index.m3u8
-宁夏卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225782/index.m3u8
-山西卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
-广西卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225767/index.m3u8
-新疆卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
-河北卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225773/index.m3u8
-河南卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8
-海南卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225752/index.m3u8
-甘肃卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
-西藏卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-贵州卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225770/index.m3u8
-陕西卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225754/index.m3u8
-青海卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225705/index.m3u8
-厦门卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225823/index.m3u8
-广东珠江卫视 4M720,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-广东南方卫视上星 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
-山东教育卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
-新疆兵团卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
-西藏藏语卫视 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
-上海哈哈炫动 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
-北京卡酷少儿 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-广东嘉佳卡通 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
-江苏优漫卡通 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
-湖南金鹰卡通 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225702/index.m3u8
-湖南金鹰纪实 4M576,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225699/index.m3u8
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225767/index.m3u8
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
+广西新闻,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226285/index.m3u8
+广西综艺旅游,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226292/index.m3u8
+广西都市,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226295/index.m3u8
+广西影视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+南宁新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226281/index.m3u8
+南宁公共,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8
+南宁影视娱乐,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226291/index.m3u8
+南宁文旅生活,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226288/index.m3u8
+柳州公共,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226307/index.m3u8
+柳州新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226304/index.m3u8
+柳州科教,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226287/index.m3u8
+河池教育,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226305/index.m3u8
+河池新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226302/index.m3u8
+北海新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226309/index.m3u8
+北海经济科教,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226308/index.m3u8
+来宾综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226290/index.m3u8
+玉林新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226299/index.m3u8
+玉林公共,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226319/index.m3u8
+百色综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226322/index.m3u8
+贺州综合,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226296/index.m3u8
+梧州新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+梧州公共频道,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226297/index.m3u8
+梧州教育生活,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226316/index.m3u8
+防城港新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226312/index.m3u8
+防城港公共,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226328/index.m3u8
+崇左综合,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226314/index.m3u8
+桂林新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226294/index.m3u8
+桂林科教旅游,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226293/index.m3u8
+桂林公共频道,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+贵港新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226300/index.m3u8
+贵港科教生活,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226303/index.m3u8
+钦州新闻综合,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
+钦州公共影视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8
+NewTV中国功夫,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225690/index.m3u8
+NewTV军事评论,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225749/index.m3u8
+NewTV军旅剧场,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
+NewTV农业致富,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225687/index.m3u8
+NewTV动作电影,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225703/index.m3u8
+NewTV古装剧场,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225706/index.m3u8
+NewTV家庭剧场,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+NewTV怡伴健康,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225684/index.m3u8
+NewTV惊悚悬疑,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225746/index.m3u8
+NewTV明星大片,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+NewTV武搏世界,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225758/index.m3u8
+NewTV海外剧场,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225763/index.m3u8
+NewTV潮妈辣婆,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225709/index.m3u8
+NewTV炫舞未来,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+NewTV爱情喜剧,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225698/index.m3u8
+NewTV精品体育,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225724/index.m3u8
+NewTV精品大剧,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225737/index.m3u8
+NewTV精品纪录,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV金牌综艺,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225755/index.m3u8
+黑莓动画,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
+黑莓电影,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+黑莓电竞,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225771/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225774/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225777/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225780/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225808/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225811/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225834/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225837/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225839/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225848/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225850/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225851/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225853/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225854/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225857/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225860/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8
+咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225896/index.m3u8
+CCTV1,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8
+CCTV1,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+CCTV2,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8
+CCTV2,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+CCTV3,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8
+CCTV3,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
+CCTV4,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8
+CCTV4,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+CCTV5,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8
+CCTV5,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8
+CCTV5,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
+CCTV5,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+CCTV5+,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225998/index.m3u8
+CCTV5+,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225712/index.m3u8
+CCTV6,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8
+CCTV6,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+CCTV7,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8
+CCTV7,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225700/index.m3u8
+CCTV8,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8
+CCTV8,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+CCTV9,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225939/index.m3u8
+CCTV9,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+CCTV10,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8
+CCTV10,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225704/index.m3u8
+CCTV11,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8
+CCTV11,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+CCTV12,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8
+CCTV12,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225645/index.m3u8
+CCTV13,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8
+CCTV13,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+CCTV13,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
+CCTV14,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225901/index.m3u8
+CCTV14,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225648/index.m3u8
+CCTV15,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225945/index.m3u8
+CCTV15,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225693/index.m3u8
+CCTV16,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8
+CCTV16,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225956/index.m3u8
+CCTV17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8
+CCTV17,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225766/index.m3u8
+纯享4K,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8
+CCTV高尔夫网球,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
+CGTN,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
+CGTN俄语,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225825/index.m3u8
+CGTN法语,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
+CGTN西语,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225875/index.m3u8
+CGTN阿语,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
+CGTN纪录,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225707/index.m3u8
+中国教育1,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225776/index.m3u8
+中国教育4,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225723/index.m3u8
+东南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225696/index.m3u8
+东方卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225718/index.m3u8
+东方卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8
+北京卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225651/index.m3u8
+北京卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+天津卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+天津卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
+安徽卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225701/index.m3u8
+安徽卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+山东卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+山东卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225642/index.m3u8
+广东卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+广东卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225986/index.m3u8
+江苏卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225722/index.m3u8
+江苏卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225636/index.m3u8
+江西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+浙江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+浙江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225695/index.m3u8
+深圳卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225725/index.m3u8
+深圳卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225691/index.m3u8
+湖北卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225721/index.m3u8
+湖北卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+湖南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+湖南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225692/index.m3u8
+辽宁卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225779/index.m3u8
+辽宁卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
+重庆卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
+重庆卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
+黑龙江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+黑龙江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225686/index.m3u8
+上海纪实人文,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225688/index.m3u8
+北京冬奥纪实,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
+云南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
+内蒙古卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225751/index.m3u8
+吉林卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
+四川卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225757/index.m3u8
+宁夏卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225782/index.m3u8
+山西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225767/index.m3u8
+新疆卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
+河北卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225773/index.m3u8
+河南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225806/index.m3u8
+海南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225752/index.m3u8
+甘肃卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225764/index.m3u8
+西藏卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
+贵州卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225770/index.m3u8
+陕西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225754/index.m3u8
+青海卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225705/index.m3u8
+厦门卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225823/index.m3u8
+广东珠江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+广东南方卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
+山东教育卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
+新疆兵团卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
+西藏藏语卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
+上海哈哈炫动,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+北京卡酷少儿,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+广东嘉佳卡通,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
+江苏优漫卡通,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
+湖南金鹰卡通,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225702/index.m3u8
+湖南金鹰纪实,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225699/index.m3u8
 电信组播,#genre#
 广西IPTV,http://192.168.2.1:4022/udp/239.81.0.203:4056
 广西IPTV,http://192.168.2.1:4022/udp/239.81.0.208:4056
@@ -577,9 +574,5 @@ CNTV,http://192.168.2.1:4022/udp/239.81.0.84:4056
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.0.62:4056
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.1.64:4056
 其它,#genre#
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
-青海都视,http://stream.qhbtv.com/qhds/sd/live.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
