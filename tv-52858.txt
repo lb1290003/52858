@@ -1,12 +1,8 @@
 数字,#genre#
 邵氏影院,https://www.goodiptv.club/douyu/4246519
 CHC动作电影,http://192.168.2.1:4022/udp/239.81.0.239:4056
-CHC动作电影,http://192.168.2.1:4022/udp/239.69.1.242:11094
-CHC影迷电影,http://192.168.2.1:4022/udp/239.69.1.241:11088
 CHC影迷电影,http://192.168.2.1:4022/udp/239.81.0.240:4056
 CHC家庭影院,http://192.168.2.1:4022/udp/239.81.0.238:4056
-CHC家庭影院,http://192.168.2.1:4022/udp/239.69.1.243:11100
-
 移动源,#genre#
 CCTV1,http://39.135.32.28:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV1,http://111.12.102.79:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
