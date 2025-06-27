@@ -120,7 +120,14 @@ CCTV15,http://111.12.102.79:6610/PLTV/77777777/224/3221225693/index.m3u8?service
 CCTV16,http://39.135.32.28:6610/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV17,http://39.135.32.28:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 纯享4K,http://111.12.102.79:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+凤凰卫视-资讯台,http://111.12.102.79:6610/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+凤凰卫视-中文台,http://111.12.102.79:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+凤凰卫视-香港台,http://111.12.102.79:6610/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV高尔夫网球,http://111.12.102.79:6610/PLTV/77777777/224/3221225884/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+睛彩广场舞,http://111.12.102.79:6610/PLTV/77777777/224/3221226326/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+睛彩竞技,http://111.12.102.79:6610/PLTV/77777777/224/3221225972/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+睛彩篮球,http://111.12.102.79:6610/PLTV/77777777/224/3221225961/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+睛彩青少,http://111.12.102.79:6610/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CGTN,http://111.12.102.79:6610/PLTV/77777777/224/3221225816/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CGTN俄语,http://111.12.102.79:6610/PLTV/77777777/224/3221225825/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CGTN法语,http://111.12.102.79:6610/PLTV/77777777/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=OTT
