@@ -1,4 +1,5 @@
 数字,#genre#
+天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
 邵氏影院,https://www.goodiptv.club/douyu/4246519
 CHC动作电影,http://192.168.2.1:4022/udp/239.81.0.239:4056
 CHC影迷电影,http://192.168.2.1:4022/udp/239.81.0.240:4056
@@ -118,7 +119,7 @@ CCTV14,http://111.12.102.79:6610/PLTV/77777777/224/3221225648/index.m3u8?service
 CCTV15,http://39.135.32.28:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV15,http://111.12.102.79:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV16,http://39.135.32.28:6610/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-CCTV17,http://39.135.32.28:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV17,http://39.135.32.28:6610/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 纯享4K,http://111.12.102.79:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 凤凰卫视-资讯台,http://111.12.102.79:6610/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 凤凰卫视-中文台,http://111.12.102.79:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -680,3 +681,4 @@ KAKU少儿,http://192.168.2.1:4022/udp/239.81.0.62:4056
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.1.64:4056
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
