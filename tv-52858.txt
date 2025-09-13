@@ -3,6 +3,7 @@
 天映经典2,https://live.tvfix.org/live/tyjd/index.m3u8
 数字,#genre#
 邵氏影院,https://www.goodiptv.club/douyu/4246519
+凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
 CHC动作电影,http://192.168.2.1:4022/udp/239.81.0.239:4056
 CHC影迷电影,http://192.168.2.1:4022/udp/239.81.0.240:4056
 CHC家庭影院,http://192.168.2.1:4022/udp/239.81.0.238:4056
@@ -686,6 +687,7 @@ KAKU少儿,http://192.168.2.1:4022/udp/239.81.0.62:4056
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.1.64:4056
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
 
 
 
