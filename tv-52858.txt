@@ -4,7 +4,6 @@
 数字,#genre#
 邵氏影院,https://www.goodiptv.club/douyu/4246519
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905hqyy#http://php.jdshipin.com:8880/1905.php?id=1905dy#http://php.jdshipin.com:8880/1905.php?id=1905dy2
-CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 移动源,#genre#
 广西卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 广西卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -699,6 +698,7 @@ KAKU少儿,http://192.168.2.1:4022/udp/239.81.0.62:4056
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.1.64:4056
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
 
 
 
