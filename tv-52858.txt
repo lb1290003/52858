@@ -124,9 +124,9 @@ CCTV15,http://111.12.102.79:6610/PLTV/77777777/224/3221225693/index.m3u8?service
 CCTV16,http://39.135.32.28:6610/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV17,http://39.135.32.28:6610/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 纯享4K,http://111.12.102.79:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-凤凰卫视-资讯台,http://111.12.102.79:6610/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-凤凰卫视-中文台,http://111.12.102.79:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-凤凰卫视-香港台,http://111.12.102.79:6610/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+凤凰资讯,http://111.12.102.79:6610/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+凤凰中文,http://111.12.102.79:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+凤凰香港,http://111.12.102.79:6610/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV高尔夫网球,http://111.12.102.79:6610/PLTV/77777777/224/3221225884/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 睛彩广场舞,http://111.12.102.79:6610/PLTV/77777777/224/3221226326/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 睛彩竞技,http://111.12.102.79:6610/PLTV/77777777/224/3221225972/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -702,6 +702,7 @@ KAKU少儿,http://192.168.2.1:4022/udp/239.81.0.62:4056
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.1.64:4056
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
 
 
 
