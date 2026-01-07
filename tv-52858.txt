@@ -168,7 +168,7 @@ CGTN纪录,http://111.12.102.79:6610/PLTV/77777777/224/3221225707/index.m3u8?ser
 重庆卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 吉林卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 青海卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-南方卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+大湾区卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 内蒙古卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 海南卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 陕西卫视,http://111.12.102.79:6610/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -389,7 +389,7 @@ CGTN纪录,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225707/index.m
 青海卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225705/index.m3u8
 厦门卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225823/index.m3u8
 广东珠江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-广东南方卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
+大湾区卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
 山东教育卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
 新疆兵团卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 西藏藏语卫视,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
@@ -743,6 +743,7 @@ KAKU少儿,http://192.168.2.1:4022/udp/239.81.0.62:4056
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.1.64:4056
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
 
 
 
