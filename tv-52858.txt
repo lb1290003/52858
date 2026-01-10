@@ -194,9 +194,10 @@ AKU少儿,http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?serv
 金鹰卡通,http://111.12.102.79:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 金鹰卡通,http://39.135.32.28:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 移动源2,#genre#
-广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226374/index.m3u8?servicetype=1
 广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225891/index.m3u8?servicetype=1
 广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225894/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226374/index.m3u8?servicetype=1
 广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225938/index.m3u8?servicetype=1
 广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225941/index.m3u8?servicetype=1
 广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225944/index.m3u8?servicetype=1
@@ -745,6 +746,7 @@ KAKU少儿,http://192.168.2.1:4022/udp/239.81.0.62:4056
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.1.64:4056
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
 
 
 
