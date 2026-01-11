@@ -745,6 +745,7 @@ KAKU,http://192.168.2.1:4022/udp/239.81.0.62:4056
 KAKU,http://192.168.2.1:4022/udp/239.81.1.64:4056
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=5013c8a4e67c5cb2d938666b80137635&wsTime=1768128844
 
 
 
