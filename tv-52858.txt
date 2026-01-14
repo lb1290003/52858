@@ -1,5 +1,5 @@
 测试,#genre#
-天映经典,http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+天映经典,https://smt.1678520.xyz/smt3.2.3.php?id=Celestial2
 天映经典1,http://php.jdshipin.com/smt.php?id=Celestial2
 数字,#genre#
 邵氏影院,https://www.goodiptv.club/douyu/4246519#http://www.douzhicloud.site:35455/douyu/4246519
@@ -762,6 +762,7 @@ KAKU,http://192.168.2.1:4022/udp/239.81.1.64:4056
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=955382e1e4b8a4aed3b14a7da44b2f8f&wsTime=1768125638
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
 
 
 
