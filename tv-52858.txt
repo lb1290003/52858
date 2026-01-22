@@ -708,7 +708,7 @@ CCTV3,http://192.168.2.1:4022/udp/239.81.0.86:4056
 CCTV4,http://192.168.2.1:4022/udp/239.81.0.16:4056
 CCTV5,http://192.168.2.1:4022/udp/239.81.0.97:4056
 CCTV5,http://192.168.2.1:4022/udp/239.81.0.12:4056
-CCTV-6,http://192.168.2.1:4022/udp/239.81.1.7:4056
+CCTV6,http://192.168.2.1:4022/udp/239.81.1.7:4056
 CCTV7,http://192.168.2.1:4022/udp/239.81.0.19:4056
 CCTV9,http://192.168.2.1:4022/udp/239.81.0.21:4056
 CCTV10,http://192.168.2.1:4022/udp/239.81.0.22:4056
@@ -830,6 +830,7 @@ KAKU,http://192.168.2.1:4022/udp/239.81.1.64:4056
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=955382e1e4b8a4aed3b14a7da44b2f8f&wsTime=1768125638
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
 
 
 
