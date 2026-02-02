@@ -519,7 +519,7 @@ IPTV足球,http://192.168.2.1:4022/udp/239.81.0.97:4056
 IPTV爱综艺,http://192.168.2.1:4022/udp/239.81.0.66:4056
 IPTV5＋体育,http://192.168.2.1:4022/udp/239.81.0.12:4056
 IPTV爱电影,http://192.168.2.1:4022/udp/239.81.0.65:4056
-IPTV爱大剧,http://192.168.0.1:7088/udp/239.81.0.67:4056
+IPTV爱大剧,http://192.168.0.1:4022/udp/239.81.0.67:4056
 IPTV8＋电视剧,http://192.168.2.1:4022/udp/239.81.0.67:4056
 CCTV1,http://192.168.2.1:4022/udp/239.81.1.2:4056
 CCTV1,http://192.168.2.1:4022/udp/239.81.0.102:4056
@@ -839,6 +839,7 @@ CNTV,http://192.168.2.1:4022/udp/239.81.0.84:4056
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=955382e1e4b8a4aed3b14a7da44b2f8f&wsTime=1768125638
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
 
 
 
