@@ -4,8 +4,8 @@
 数字,#genre#
 邵氏影院,https://www.goodiptv.club/douyu/4246519#http://www.douzhicloud.site:35455/douyu/4246519
 爱奇艺,https://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
-1905力量影院,https://cdn.jdshipin.com/1905.php
-1905环球经典,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
+力量影院,https://cdn.jdshipin.com/1905.php
+环球经典,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
 美亚电影,http://67.220.67.246:41643/
 CHC动作电影,http://192.168.2.1:4022/udp/239.81.0.239:4056
 CHC影迷电影,http://192.168.2.1:4022/udp/239.81.0.240:4056
@@ -836,6 +836,7 @@ CNTV,http://192.168.2.1:4022/udp/239.81.0.84:4056
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=955382e1e4b8a4aed3b14a7da44b2f8f&wsTime=1768125638
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
 
 
 
