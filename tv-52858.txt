@@ -187,8 +187,10 @@ CCTV16,http://39.135.32.28:6610/PLTV/77777777/224/3221225937/index.m3u8?servicet
 CCTV16,http://111.12.102.79:6610/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV17,http://39.135.32.28:6610/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV17,http://111.12.102.79:6610/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-CHC家庭影院,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226401/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-CHC动作电影,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226408/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CHC动作电影,http://39.135.32.28:6610/PLTV/77777777/224/3221226408/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CHC动作电影,http://111.12.102.79:6610/PLTV/77777777/224/3221226408/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CHC家庭影院,http://39.135.32.28:6610/PLTV/77777777/224/3221226401/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CHC家庭影院,http://111.12.102.79:6610/PLTV/77777777/224/3221226401/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 中国天气,http://39.135.32.28:6610/PLTV/77777777/224/3221226443/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 中国天气,http://111.12.102.79:6610/PLTV/77777777/224/3221226443/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 纯享4K,http://111.12.102.79:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -839,6 +841,7 @@ CNTV,http://192.168.2.1:4022/udp/239.81.0.84:4056
 欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=955382e1e4b8a4aed3b14a7da44b2f8f&wsTime=1768125638
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
 
 
 
