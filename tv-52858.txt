@@ -116,6 +116,8 @@ NewTV谍战大剧,http://111.12.102.79:6610/PLTV/77777777/224/3221225755/index.m
 黑莓动画,http://111.12.102.79:6610/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 黑莓电影,http://39.135.32.28:6610/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 黑莓电影,http://111.12.102.79:6610/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+哒啵电竞,http://39.135.32.28:6610/PLTV/77777777/224/3221225880/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+哒啵电竞,http://111.12.102.79:6610/PLTV/77777777/224/3221225880/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 哒啵赛事,http://39.135.32.28:6610/PLTV/77777777/224/3221225760/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 哒啵赛事,http://111.12.102.79:6610/PLTV/77777777/224/3221225760/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 咪咕视频,http://39.135.32.28:6610/PLTV/77777777/224/3221225771/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -326,6 +328,7 @@ CGTN纪录,http://111.12.102.79:6610/PLTV/77777777/224/3221225707/index.m3u8?ser
 谍战大剧,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225755/index.m3u8?servicetype=1&
 黑莓动画,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8?servicetype=1&
 黑莓电影,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8?servicetype=1&
+哒啵电竞,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225880/index.m3u8?servicetype=1&
 哒啵赛事,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8?servicetype=1&
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225771/index.m3u8?servicetype=1&
 咪咕视频,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225774/index.m3u8?servicetype=1&
