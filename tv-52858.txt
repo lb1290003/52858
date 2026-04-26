@@ -755,12 +755,12 @@ CCTV17,http://192.168.2.1:4022/udp/239.81.0.227:4056
 无标法制,http://192.168.2.1:4022/udp/239.81.0.20:4056
 华数电视剧,http://192.168.2.1:4022/udp/239.81.0.15:4056
 金色学堂,http://192.168.2.1:4022/udp/239.81.0.80:4056
+CETV-1,http://192.168.2.1:4022/udp/239.81.0.52:4056
 CETV-2,http://192.168.2.1:4022/udp/239.81.1.61:4056
 CETV-2,http://192.168.2.1:4022/udp/239.81.0.245:4056
 CETV-3,http://192.168.2.1:4022/udp/239.81.1.62:4056
 CETV-4,http://192.168.2.1:4022/udp/239.81.1.63:4056
 CETV-4,http://192.168.2.1:4022/udp/239.81.0.246:4056
-CETV1,http://192.168.2.1:4022/udp/239.81.0.52:4056
 CGTN,http://192.168.2.1:4022/udp/239.81.1.20:4056
 CGTN,http://192.168.2.1:4022/udp/239.81.0.28:4056
 CNTV,http://192.168.2.1:4022/udp/239.81.0.65:4056
@@ -828,7 +828,7 @@ CNTV,http://192.168.2.1:4022/udp/239.81.0.84:4056
 其它,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 梨园频道,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1f850fce6de38ade050486b6949d1c82&wsTime=1768125638
-移动戏曲频道,https://dxtx.hntv.tv/live/ydxq.m3u8?txSecret=caad41b421fdab7fa0dfbaf96f59f9f0&txTime=7B2E515F&wsSecret=49ef8c227c9c31d23594001b5d717c20&wsTime=1768125638
+移动戏曲,https://dxtx.hntv.tv/live/ydxq.m3u8?txSecret=caad41b421fdab7fa0dfbaf96f59f9f0&txTime=7B2E515F&wsSecret=49ef8c227c9c31d23594001b5d717c20&wsTime=1768125638
 
 
 
